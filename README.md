@@ -1,4 +1,4 @@
-[ESPea32](https://blog.aprbrother.com/product/espea32))
+[ESPea32](https://blog.aprbrother.com/product/espea32)
 
 A dev board for ESP32.
 
